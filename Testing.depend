@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1369177445 source:f:\sfml\projects\testing\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<iostream>
+	"common.h"
+	"game.h"
+
+1369195971 source:f:\sfml\projects\testing\game.cpp
+	"game.h"
+	<iostream>
+	<algorithm>
+
+1369195841 f:\sfml\projects\testing\game.h
+	<SFML/Graphics.hpp>
+	"common.h"
+	"card.h"
+	"deck.h"
+	"CardInfoManager.h"
+
+1369194258 source:f:\sfml\projects\testing\common.cpp
+	"common.h"
+
+1369194254 f:\sfml\projects\testing\common.h
+	<string>
+
+1369194719 source:f:\sfml\projects\testing\card.cpp
+	"card.h"
+
+1369187489 f:\sfml\projects\testing\card.h
+	<SFML/Graphics.hpp>
+	"common.h"
+	"infomanager.h"
+	<iostream>
+
+1369196566 source:f:\sfml\projects\testing\deck.cpp
+	"deck.h"
+
+1369195941 f:\sfml\projects\testing\deck.h
+	<SFML/Graphics.hpp>
+	"Card.h"
+	"infomanager.h"
+
+1369183860 f:\sfml\projects\testing\cardinfomanager.h
+	<SFML/Graphics.hpp>
+	"common.h"
+	"card.h"
+
+1369187825 source:f:\sfml\projects\testing\cardinfomanager.cpp
+	"CardInfoManager.h"
+
+1369184916 f:\sfml\projects\testing\infomanager.h
+	<SFML/Graphics.hpp>
+	"common.h"
+
+1369184887 source:f:\sfml\projects\testing\infomanager.cpp
+	"infomanager.h"
+
+1370196103 source:c:\smfl_workspace\vanguard\card.cpp
+	"card.h"
+
+1369785696 c:\smfl_workspace\vanguard\card.h
+	<SFML/Graphics.hpp>
+	"common.h"
+	"infomanager.h"
+	<iostream>
+
+1370392096 c:\smfl_workspace\vanguard\common.h
+	<string>
+	<SFML/System.hpp>
+	<SFML/Network.hpp>
+
+1369184916 c:\smfl_workspace\vanguard\infomanager.h
+	<SFML/Graphics.hpp>
+	"common.h"
+
+1369187825 source:c:\smfl_workspace\vanguard\cardinfomanager.cpp
+	"CardInfoManager.h"
+
+1369183860 c:\smfl_workspace\vanguard\cardinfomanager.h
+	<SFML/Graphics.hpp>
+	"common.h"
+	"card.h"
+
+1370394805 source:c:\smfl_workspace\vanguard\common.cpp
+	"common.h"
+
+1369786452 source:c:\smfl_workspace\vanguard\deck.cpp
+	"deck.h"
+
+1370207825 c:\smfl_workspace\vanguard\deck.h
+	<SFML/Graphics.hpp>
+	"Card.h"
+	"infomanager.h"
+	"Field.h"
+
+1370406788 source:c:\smfl_workspace\vanguard\game.cpp
+	"game.h"
+	<iostream>
+	<algorithm>
+
+1370405670 c:\smfl_workspace\vanguard\game.h
+	<SFML/OpenGL.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/Network.hpp>
+	<SFML/System.hpp>
+	"common.h"
+	"card.h"
+	"deck.h"
+	"CardInfoManager.h"
+	"Field.h"
+	"network.h"
+
+1370402264 source:c:\smfl_workspace\vanguard\infomanager.cpp
+	"infomanager.h"
+
+1370405776 source:c:\smfl_workspace\vanguard\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/OpenGL.hpp>
+	<iostream>
+	"common.h"
+	"game.h"
+	"lan_mode.h"
+	"menu.h"
+
+1370201940 source:c:\smfl_workspace\vanguard\field.cpp
+	"Field.h"
+
+1370197481 c:\smfl_workspace\vanguard\field.h
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Network.hpp>
+	"Card.h"
+
+1370275769 c:\smfl_workspace\vanguard\network.h
+	<SFML/Network.hpp>
+	<SFML/System.hpp>
+	"common.h"
+	<iostream>
+
+1370405903 source:c:\smfl_workspace\vanguard\network.cpp
+	"network.h"
+
+1370395687 source:c:\smfl_workspace\vanguard\lan_mode.cpp
+	"lan_mode.h"
+
+1370392744 c:\smfl_workspace\vanguard\lan_mode.h
+	<SFML/Graphics.hpp>
+	"button.h"
+	"TextField.h"
+	<iostream>
+	<SFML/Network.hpp>
+
+1370284911 source:c:\smfl_workspace\vanguard\menu.cpp
+	"menu.h"
+
+1370283762 c:\smfl_workspace\vanguard\menu.h
+	<SFML/Graphics.hpp>
+	"button.h"
+
+1370284822 source:c:\smfl_workspace\vanguard\button.cpp
+	"button.h"
+
+1370284782 c:\smfl_workspace\vanguard\button.h
+	<SFML/Graphics.hpp>
+	"common.h"
+
+1370391835 c:\smfl_workspace\vanguard\textfield.h
+	<SFML/Graphics.hpp>
+	<string>
+
+1370393678 source:c:\smfl_workspace\vanguard\textfield.cpp
+	"TextField.h"
+
